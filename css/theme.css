@@ -209,6 +209,8 @@ header h1.logo a {
 }
 
 header h1.logo img {
+	display: grid;
+	width: 50%;
 	position: relative;
 	color: transparent;
 }
