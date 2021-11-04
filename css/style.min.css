@@ -499,3 +499,7 @@ footer {
   #navbar-nav-header ul li{
     border: #000 1px solid;
   }
+
+#gtco-header-navbar{
+  flex-direction: column;
+}
