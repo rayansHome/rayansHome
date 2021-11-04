@@ -200,7 +200,9 @@ a {
   z-index: 11;
   transition: background-color .3s ease-in-out;
   border-top-right-radius: 5px;
-  border-top-left-radius: 5px; }
+  border-top-left-radius: 5px;
+  flex-direction: column;
+}
 
 .navbar-brand {
   font-size: 40px;
