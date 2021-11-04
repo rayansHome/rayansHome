@@ -201,7 +201,7 @@ a {
   transition: background-color .3s ease-in-out;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
-  flex-direction: column;
+  flex-direction: column !important;
 }
 
 .navbar-brand {
